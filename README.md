@@ -1,4 +1,4 @@
-#NestJS - Basic CRUD
+# NestJS - Basic CRUD
 
 [travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
 [travis-url]: https://travis-ci.org/nestjs/nest
@@ -25,7 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-<br> Added with basic CRUD function with one entity.  
+<br> Added with basic CRUD function with one entity. 
 
 ## Installation
 
